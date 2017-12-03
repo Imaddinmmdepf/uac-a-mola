@@ -1,3 +1,4 @@
+#-*-encoding: utf-8-*- source code encoding
 # This file is part of uac-a-mola
 # Author: Santiago Hernández Ramos (shramos@protonmail.com)
 #
